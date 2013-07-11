@@ -1,7 +1,7 @@
 unmappedtwo
 ===========
 
-Total rewrite of a plain-text RPG at http://code.google.com/p/unmapped/
+Total rewrite of a plain-text RPG at http://code.google.com/p/unmapped/ which was itself a Darklands-like. Unmapped Two will be even more of a Darklands-like in some ways.
 
 Current thoughts on possible improvements over Unmapped 1:
 
