@@ -11,6 +11,7 @@ Current thoughts on possible improvements over Unmapped 1:
 
 New features:
 * Swing interface
+* Time - although this will require a lot more scene writing. Darklands had an incredible amount of work put into every scene.
 * There will be a single big party inventory of unlimited size (gonna need to work some JScrollPane magic here), and characters equip & use items directly from it
 * Whole party temporary effects? Would help the Holy Book system be an even more complete replacement of Darklands' Roman Catholic Saints system.
 * Alchemy will get implemented this time
