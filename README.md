@@ -10,7 +10,7 @@ Current thoughts on possible improvements over Unmapped 1:
 * Need to make sure that multi-line character descriptions are in this time
 
 New features:
-* Swing interface
+* Swing interface - this means a mouse-driven UI with a lot more possibilities, and no more worrying about text wrapping issues
 * Time - although this will require a lot more scene writing. Darklands had an incredible amount of work put into every scene.
 * Character creation involves a more Darklands-like career system after all of the background details are done.
 * There will be a single big party inventory of unlimited size (gonna need to work some JScrollPane magic here), and characters equip & use items directly from it
